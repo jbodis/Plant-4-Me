@@ -4,7 +4,4 @@ public class Plant {
 
     }
 
-    public String toString() {
-        return " ";
-    }
 }
