@@ -1,0 +1,9 @@
+Echeveria Succulent, low, high
+Tillandsia Air plant, low, high
+Orchid, low, high
+Monstera, mid, mid
+Spider plant, high, mid
+Fiddle-leaf Fig, high, mid
+Pothos, mid, mid
+Lipstick Plant, mid, high
+Snake plant, mid, low
